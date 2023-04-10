@@ -1,0 +1,8 @@
+prefix=/home/pgupta/catkin_ws/devel/.private/victim_ground_truth_publisher
+
+Name: victim_ground_truth_publisher
+Description: Description of victim_ground_truth_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

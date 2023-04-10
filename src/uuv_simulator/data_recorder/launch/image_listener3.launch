@@ -1,0 +1,10 @@
+<launch>
+    <arg name="uuv_name" default="rov3"/>
+    <group ns="$(arg uuv_name)">
+        <node name="image_listener3" 
+              pkg="data_recorder" 
+              type="image_listener3.py" 
+              output="screen">
+        </node>
+    </group>
+</launch>

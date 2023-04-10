@@ -1,0 +1,1 @@
+/home/pgupta/catkin_ws/devel/.private/rov_text_publisher/share/rov_text_publisher/cmake/rov_text_publisherConfig-version.cmake

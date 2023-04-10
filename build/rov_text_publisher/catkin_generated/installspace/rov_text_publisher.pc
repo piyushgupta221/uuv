@@ -1,0 +1,8 @@
+prefix=/home/pgupta/catkin_ws/install
+
+Name: rov_text_publisher
+Description: Description of rov_text_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

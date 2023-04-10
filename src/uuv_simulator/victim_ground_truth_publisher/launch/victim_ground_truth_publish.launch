@@ -1,0 +1,10 @@
+<launch>
+    <arg name="uuv_name" default="victim_ground_truth_markers"/>
+    <group ns="$(arg uuv_name)">
+        <node name="victim_ground_truth_publish" 
+              pkg="victim_ground_truth_publisher" 
+              type="victim_ground_truth_publish.py" 
+              output="screen">
+        </node>
+    </group>
+</launch>

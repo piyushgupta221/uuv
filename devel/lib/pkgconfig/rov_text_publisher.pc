@@ -1,0 +1,1 @@
+/home/pgupta/catkin_ws/devel/.private/rov_text_publisher/lib/pkgconfig/rov_text_publisher.pc

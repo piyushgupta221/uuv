@@ -1,0 +1,18 @@
+<launch>
+    <arg name="uuv_name"/>
+    <arg name="x"/>
+    <arg name="y"/>
+    <arg name="z"/>
+    <group ns="$(arg uuv_name)">
+        <node name="rov_text_publish" 
+              pkg="rov_text_publisher" 
+              type="rov_text_publish.py" 
+              output="screen">
+              <rosparam subst_value="true">
+                x: $(arg x)
+                y: $(arg y)
+                z: $(arg z)
+              </rosparam>
+        </node>
+    </group>
+</launch>

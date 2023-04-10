@@ -1,0 +1,8 @@
+prefix=/home/pgupta/catkin_ws/install
+
+Name: destruction_scenarios
+Description: Description of destruction_scenarios
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

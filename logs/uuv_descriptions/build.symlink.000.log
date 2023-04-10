@@ -1,0 +1,5 @@
+Symlinking /home/pgupta/catkin_ws/devel/share/uuv_descriptions/cmake/uuv_descriptionsConfig.cmake
+Symlinking /home/pgupta/catkin_ws/devel/share/uuv_descriptions/cmake/uuv_descriptionsConfig-version.cmake
+Symlinking /home/pgupta/catkin_ws/devel/lib/pkgconfig/uuv_descriptions.pc
+Symlinking /home/pgupta/catkin_ws/devel/lib/uuv_descriptions/spawn_model
+Symlinking /home/pgupta/catkin_ws/devel/lib/uuv_descriptions/cmake.lock

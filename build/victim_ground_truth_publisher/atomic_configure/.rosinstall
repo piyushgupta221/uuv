@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pgupta/catkin_ws/devel/.private/victim_ground_truth_publisher/setup.sh

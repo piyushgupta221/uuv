@@ -1,0 +1,8 @@
+prefix=/home/pgupta/catkin_ws/devel/.private/data_recorder
+
+Name: data_recorder
+Description: Description of data_recorder
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

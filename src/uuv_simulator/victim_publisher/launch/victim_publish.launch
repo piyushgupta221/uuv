@@ -1,0 +1,10 @@
+<launch>
+    <arg name="uuv_name" default="victim_markers"/>
+    <group ns="$(arg uuv_name)">
+        <node name="victim_publish" 
+              pkg="victim_publisher" 
+              type="victim_publish.py" 
+              output="screen">
+        </node>
+    </group>
+</launch>

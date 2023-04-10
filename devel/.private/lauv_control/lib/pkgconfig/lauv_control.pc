@@ -1,0 +1,8 @@
+prefix=/home/pgupta/catkin_ws/devel/.private/lauv_control
+
+Name: lauv_control
+Description: Description of lauv_control
+Version: 0.1.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

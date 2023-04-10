@@ -1,0 +1,8 @@
+prefix=/home/pgupta/catkin_ws/devel/.private/victim_publisher
+
+Name: victim_publisher
+Description: Description of victim_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

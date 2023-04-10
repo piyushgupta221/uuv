@@ -1,0 +1,1 @@
+/home/pgupta/catkin_ws/devel/.private/destruction_scenarios/lib/pkgconfig/destruction_scenarios.pc
